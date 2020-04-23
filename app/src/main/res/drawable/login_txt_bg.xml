@@ -4,11 +4,11 @@
 
     <item
         android:state_pressed="true"
-        android:color="@color/whight"/>
+        android:color="@color/blue"/>
     <item
         android:state_focused="true"
-        android:color="@color/whight"/>
+        android:color="@color/blue"/>
     <item
-        android:color="@color/red"/>
+        android:color="@color/whight"/>
 
 </selector>
