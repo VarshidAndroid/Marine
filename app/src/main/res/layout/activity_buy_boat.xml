@@ -44,8 +44,8 @@
 
             <ImageView
                 android:id="@+id/imageView11"
-                android:layout_width="20dp"
-                android:layout_height="20dp"
+                android:layout_width="12dp"
+                android:layout_height="18dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
